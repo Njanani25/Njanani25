@@ -23,7 +23,7 @@
 - Innovative applications in Python and JavaScript
 
 ## 📫 How to reach me:
-- Email: [jananinagarajan25gmail.com]
+- Email: [jananinagarajan25@gmail.com]
 - LinkedIn: [ www.linkedin.com/in/janani2511]
 
 

@@ -2,9 +2,8 @@
 
 ## Languages and Tools:
 - 💻 C
-- 💻 C#
-- 🌐 .NET
-- ☕ Java
+- 💻 HTML
+- 💻 CSS
 - ⚙️ JavaScript
 - 🗄️ MySQL
 - 🐍 Python

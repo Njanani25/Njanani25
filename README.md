@@ -14,15 +14,15 @@
 - Emerging Technologies
 
 ## 🌱 I’m currently learning:
-- Advanced Flask and Django frameworks
-- Front-End Development Techniques
+-  Flask 
+-  React
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source projects related to web development
 - Innovative applications in Python and JavaScript
 
 ## 📫 How to reach me:
-- Email: [jananinagarajan25@gmail.com]
+- Email: [janani.n2526@gmail.com]
 - LinkedIn: [ www.linkedin.com/in/janani2511]
 
 

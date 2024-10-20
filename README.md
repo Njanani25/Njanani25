@@ -5,7 +5,7 @@
 - 💻 HTML
 - 💻 CSS
 - ⚙️ JavaScript
-- 🗄️ MySQL
+- 🗄️ SQL
 - 🐍 Python
   
 ## 👀 I’m interested in:

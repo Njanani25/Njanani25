@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m N. Janani Hom ([@Njanani25](https://github.com/Njanani25))
+# 👋 Hi, I’m N. Janani ([@Njanani25](https://github.com/Njanani25))
 
 I'm a passionate **Full-Stack Developer** and **Final Year Engineering Student** in Computer Science with a strong foundation in both front-end and back-end technologies. I thrive in creating seamless, user-friendly applications and am always eager to expand my skill set and contribute to meaningful projects.
 

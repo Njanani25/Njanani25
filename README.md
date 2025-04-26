@@ -50,5 +50,3 @@ Learn more about my experience and education: [My Resume](https://drive.google.c
 
 ---
 
-> “Design. Develop. Debug. Repeat. 🚀”
-```

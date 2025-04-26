@@ -1,28 +1,56 @@
+# 👋 Hello, I'm N. Janani
 
-# 👋 Hi, I’m N. Janani 
+💻 A Passionate Full-Stack Developer 💕
 
-I'm a passionate **Full-Stack Developer** and **Final Year Engineering Student** in Computer Science with a strong foundation in both front-end and back-end technologies. I thrive in creating seamless, user-friendly applications and am always eager to expand my skill set and contribute to meaningful projects.
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🔧 Languages and Tools
+---
 
-- **Languages:** C, Python, Core Java, JavaScript, SQL
-- **Frontend:** HTML, CSS, React
-- **Backend:** Flask
-- **Database:** MySQL
-- **Tools:** VS Code, Git & GitHub, WAMP Server
+## 🌱 Currently Learning
+I'm expanding my backend development knowledge using **Reactjs** and **nodejs**, and building scalable web applications.
 
-## 🌱 What I’m Currently Working On
-I am focused on building scalable web applications and expanding my backend development knowledge using frameworks like Flask and Django. My recent projects include a **Colloquium control panel(Symposium management system)**.
+---
 
-## 🎓 Education & Professional Development
-- **Bachelor of Engineering (Computer Science)**, VCEW, Tamil Nadu, India
-- **Certifications & Workshops:** Participated in workshops at IIT Madras and presented papers on emerging technologies.
+## 👨‍💻 Portfolio
+Explore all my work here: [My Portfolio] (janani-nagarajan-portfolio.netlify.app)
+
+---
 
 ## 📫 How to Reach Me
+- ✉️ Email: [janani.n2526@gmail.com](mailto:janani.n2526@gmail.com)
 
-- **Email:** [janani.n2526@gmail.com](mailto:janani.n2526@gmail.com)
-- **LinkedIn:** [linkedin.com/in/janani2511](https://www.linkedin.com/in/janani2511)
+---
 
-## 💡 Interests & Hobbies
-I enjoy experimenting with **UI/UX design**, learning **new languages and frameworks**, and continuously improving my **vocabulary and technical writing skills**. In my free time, I explore emerging technologies and participate in collaborative projects.
+## 📄 Resume
+Learn more about my experience and education: [My Resume](janani-nagarajan-portfolio.netlify.app) 
+
+---
+
+## 🌐 Connect With Me
+- GitHub: [janani2511](https://github.com/janani2511)
+- LinkedIn: [N. Janani](https://www.linkedin.com/in/janani2511)
+
+---
+
+## 🛠️ Languages and Tools
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Core Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![WAMP](https://img.shields.io/badge/-WAMP-FF6600?style=flat&logo=apache)
+
+---
+
+> “Design. Develop. Debug. Repeat. 🚀”
+```
+
 

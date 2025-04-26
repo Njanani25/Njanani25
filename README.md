@@ -27,7 +27,7 @@ Learn more about my experience and education: [My Resume](https://drive.google.c
 ---
 
 ## 🌐 Connect With Me
-- GitHub: [janani2511](https://github.com/janani2511)
+- GitHub: [janani2511](https://github.com/Njanani25)
 - LinkedIn: [N. Janani](https://www.linkedin.com/in/janani2511)
 
 ---

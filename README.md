@@ -12,7 +12,7 @@ I'm expanding my backend development knowledge using **Reactjs** and **nodejs**,
 ---
 
 ## 👨‍💻 Portfolio
-Explore all my work here: [My Portfolio](janani-nagarajan-portfolio.netlify.app)
+Explore all my work here: [My Portfolio](https://janani-nagarajan-portfolio.netlify.app/)
 
 ---
 
@@ -52,5 +52,3 @@ Learn more about my experience and education: [My Resume](https://drive.google.c
 
 > “Design. Develop. Debug. Repeat. 🚀”
 ```
-
-

@@ -34,19 +34,19 @@ Learn more about my experience and education: [My Resume](https://drive.google.c
 
 ## 🛠️ Languages and Tools
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Core Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![WAMP](https://img.shields.io/badge/-WAMP-FF6600?style=flat&logo=apache)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&size=large)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&size=large)
+![Core Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&size=large)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&size=large)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&size=large)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&size=large)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&size=large)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&size=large)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&size=large)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&size=large)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&size=large)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&size=large)
+![WAMP](https://img.shields.io/badge/-WAMP-FF6600?style=flat&logo=apache&size=large)
 
 ---
 
